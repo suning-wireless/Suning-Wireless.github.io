@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "suning-wireless",
-    "repositoryName": "suning-wireless.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"suning-wireless","repositoryName":"suning-wireless.github.io","branch":"master"},"site":{"title":"无线美工队","description":"开发更精致的世界","url":"https://suning-wireless.github.io"},"socialnetwork":{},"theme":{"name":"Casper","url":"//suning-wireless.github.io/themes/Casper"}}
